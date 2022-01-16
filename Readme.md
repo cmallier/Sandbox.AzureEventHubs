@@ -1,6 +1,7 @@
 # Sandbox.AzureEventHubs
 
-# Disclaimer
+
+## Disclaimer
 
 This project is done for learning purposes. It is not necessarily production quality code.
 
